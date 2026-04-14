@@ -1,0 +1,7 @@
+customtkinter
+pygame
+pystray
+Pillow
+requests
+beautifulsoup4
+urllib3
